@@ -14,11 +14,3 @@
   <img src="https://github.com/luizmiele/GitHubCloneReactNative/assets/120398431/ec1c247b-078c-402f-9b85-ea93c1e3b6a3" alt="Imagem 1" width="45%" style="display: inline-block; margin-right: 10px;"/>ㅤㅤ
   <img src="https://github.com/luizmiele/GitHubCloneReactNative/assets/120398431/4a3ef33f-a2ea-4f48-86ad-ef226dffc750" alt="Imagem 2" width="45%" style="display: inline-block;"/>
 </p>
-
-
-![referencia3]()
-![referencia2]()
-![referencia1]()
-![Clone3]()
-![Clone2]()
-![Clone1]()
